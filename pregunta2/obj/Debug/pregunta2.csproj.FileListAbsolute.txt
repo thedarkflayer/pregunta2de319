@@ -1,0 +1,21 @@
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\bin\Debug\pregunta2.exe.config
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\bin\Debug\pregunta2.exe
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\bin\Debug\pregunta2.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\obj\Debug\pregunta2.csprojResolveAssemblyReference.cache
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\obj\Debug\pregunta2.Form1.resources
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\obj\Debug\pregunta2.Properties.Resources.resources
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\obj\Debug\pregunta2.csproj.GenerateResource.Cache
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\obj\Debug\pregunta2.exe
+C:\Users\dell\AppData\Local\Temporary Projects\pregunta2\obj\Debug\pregunta2.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\bin\Debug\pregunta2.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\bin\Debug\pregunta2.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\bin\Debug\pregunta2.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\examen 319\pregunta2\pregunta2\bin\Debug\pregunta2.exe.config
+C:\Users\dell\Desktop\examen 319\pregunta2\pregunta2\obj\Debug\pregunta2.exe
+C:\Users\dell\Desktop\examen 319\pregunta2\pregunta2\obj\Debug\pregunta2.pdb
